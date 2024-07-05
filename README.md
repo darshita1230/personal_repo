@@ -1,4 +1,5 @@
-#1.codes
+1.codes
+#
 #2.DSA theory + basic codes
 #3.data analytics
 #4.data science
